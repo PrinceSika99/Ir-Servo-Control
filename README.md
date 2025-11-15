@@ -11,7 +11,7 @@ Ce projet m’a permis de mettre en pratique plusieurs notions en langage C :
   -Utilisation de variables booléennes
 
 ## Structure du projet 
-    |-câblage_Ir-Servo-Control.JPG 
+    |-Circuit_Ir-Servo_Contrrol.JPG 
     |-Ir-Servo_Control.ino
     |-README.md
 
