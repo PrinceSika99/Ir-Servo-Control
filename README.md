@@ -16,11 +16,15 @@ Ce projet m’a permis de mettre en pratique plusieurs notions en langage C :
     |-README.md
 
 ## Matériel utilisé
-*Arduino UNO
-*Ecran LCD 20x4 I2C
-*ServoMoteur
-*puce_ir_receiver
-*telecommande_ir_remote
+-Arduino UNO  
+
+-Ecran LCD 20x4 I2C                                                                                     
+
+-ServoMoteur
+
+-puce_ir_receiver
+
+-telecommande_ir_remote
 
 ## Montage électronique 
 
