@@ -26,10 +26,17 @@ Ce projet m’a permis de mettre en pratique plusieurs notions en langage C :
 
 -telecommande_ir_remote
 
-## Montage électronique 
-voici le câblage du projet :
+## Montage électronique et Démonstration
+Voici le schéma de câblage du projet.
+Clique sur l’image pour pouvoir jouer une démonstration
 
-![](câblage_Ir-Servo_Contrrol.JPG#center)
+<span style="display:block;text-align:center">
+
+[![](câblage_Ir-Servo_Contrrol.JPG#center)](https://wokwi.com/projects/442066694738289665)
+
+</span>
+ 
+
 
 
 
