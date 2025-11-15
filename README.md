@@ -11,7 +11,7 @@ Ce projet m’a permis de mettre en pratique plusieurs notions en langage C :
   -Utilisation de variables booléennes
 
 ## Structure du projet 
-    |-Circuit_Ir-Servo_Contrrol.JPG 
+    |-câblage_Ir-Servo_Contrrol.JPG 
     |-Ir-Servo_Control.ino
     |-README.md
 
@@ -27,6 +27,10 @@ Ce projet m’a permis de mettre en pratique plusieurs notions en langage C :
 -telecommande_ir_remote
 
 ## Montage électronique 
+voici le câblage du projet :
+
+![](câblage_Ir-Servo_Contrrol.JPG#center)
+
 
 
     
