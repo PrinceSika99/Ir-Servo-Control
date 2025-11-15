@@ -11,7 +11,7 @@ Ce projet m’a permis de mettre en pratique plusieurs notions en langage C :
   -Utilisation de variables booléennes
 
 ## Structure du projet 
-    |-câblage_Ir-Servo_Contrrol.JPG 
+    |-Câblage_Ir-Servo_Contrrol.JPG 
     |-Ir-Servo_Control.ino
     |-README.md
 
@@ -32,7 +32,7 @@ Clique sur l’image pour pouvoir jouer une démonstration
 
 <span style="display:block;text-align:center">
 
-[![](câblage_Ir-Servo_Contrrol.JPG#center)](https://wokwi.com/projects/442066694738289665)
+[![](Câblage_Ir-Servo_Contrrol.JPG#center)](https://wokwi.com/projects/442066694738289665)
 
 </span>
  
