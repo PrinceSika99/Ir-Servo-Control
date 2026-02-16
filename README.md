@@ -28,11 +28,11 @@ Ce projet m’a permis de mettre en pratique plusieurs notions en langage C :
 
 ## Montage électronique et Démonstration
 Voici le schéma de câblage du projet.
-Clique sur l’image pour pouvoir jouer une démonstration
+Clique sur l’image pour voir une démonstration
 
 <span style="display:block;text-align:center">
 
-[![](Câblage_Ir-Servo_Contrrol.JPG#center)](https://wokwi.com/projects/442066694738289665)
+[![](cablage_multislave_SPI_project.JPG#center)]()
 
 </span>
  
